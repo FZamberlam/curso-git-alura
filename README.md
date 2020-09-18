@@ -1,1 +1,1 @@
-Repositório para testes do curso Git e Github: Controle e compartilhe seu código da Alura
+Repositório para testes do curso <b>Git e Github: Controle e compartilhe seu código</b> da Alura
